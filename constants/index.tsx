@@ -32,6 +32,10 @@ export const serviceCategories = [
 
 export const contactInfo = [
   {
+    label: "Name: ",
+    value: " Mr. Satish Kumar",
+  },
+  {
     label: "Email:",
     value: "example@email.com",
   },
