@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <header>
+    <header className="container">
       <nav className="bg-white fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
         <ul className="navigation max-w-[90vw] flex flex-wrap justify-between items-center relative mx-auto py-8 ">
           <a className="logo" href="/">
