@@ -29,3 +29,18 @@ export const serviceCategories = [
     img: "property_management.png",
   },
 ];
+
+export const contactInfo = [
+  {
+    label: 'Email:',
+    value: 'example@email.com',
+  },
+  {
+    label: 'Phone:',
+    value: '91+ 9953930027',
+  },
+  {
+    label: 'Address:',
+    value: 'Om Vihar, Crossing Republic, Ghaziabad, Uttar Pradesh, Pincode-201016',
+  },
+];
