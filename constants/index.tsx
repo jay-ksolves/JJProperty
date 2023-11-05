@@ -32,15 +32,37 @@ export const serviceCategories = [
 
 export const contactInfo = [
   {
-    label: 'Email:',
-    value: 'example@email.com',
+    label: "Email:",
+    value: "example@email.com",
   },
   {
-    label: 'Phone:',
-    value: '91+ 9953930027',
+    label: "Phone:",
+    value: "91+ 9953930027",
   },
   {
-    label: 'Address:',
-    value: 'Om Vihar, Crossing Republic, Ghaziabad, Uttar Pradesh, Pincode-201016',
+    label: "Address:",
+    value:
+      "Om Vihar, Crossing Republic, Ghaziabad, Uttar Pradesh, Pincode-201016",
+  },
+];
+
+export const propertyData = [
+  {
+    title: "Buying Services",
+    description: "We help you find your dream home or property investment.",
+    img: "buyHouse.jpg",
+    price: "On Discussion",
+  },
+  {
+    title: "Rental Services",
+    description: " (Boys & Girls PG).",
+    img: "S&C.png",
+    price: "Rs 4500/months ",
+  },
+  {
+    title: "Buy Land",
+    description: " Buy Lands in best locations",
+    img: "buyLand.jpg",
+    price: "At your Price",
   },
 ];

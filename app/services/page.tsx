@@ -3,7 +3,7 @@ import { serviceCategories } from "../../constants/index";
 
 const Services = () => {
   return (
-    <section className="container py-12">
+    <section className="container py-12 mt-24">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">
           Our Services
