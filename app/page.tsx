@@ -26,7 +26,7 @@ const Home = () => {
           />
 
           <div className="mt-4 md:ml-4">
-            <p className="p-2 text-gray-600 font-extrabold">
+            <p className="p-2 text-gray-600 font-extrabold p-4">
               Find Your Perfect Property with JJ Property
             </p>
             <img
